@@ -1,0 +1,171 @@
+# Copyright (C) 2023 SHOPVOTE
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SHOPVOTE 2.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/shopvote\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-12T16:21:59+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: shopvote\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "SHOPVOTE"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://plugins.shopvote.de/shopvote-integrationsanleitung-fuer-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for the legally secure collection of shop reviews and / or product reviews and the integration of the SHOPVOTE badge."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.shopvote.de"
+msgstr ""
+
+#: includes/AjaxHandler.php:74
+msgid "Unable to migrate review data."
+msgstr ""
+
+#. translators: %1$d represents the CURL error code, %2$s the CURL error message.
+#: includes/ShopVoteApi.php:51
+msgid "A connection to the SHOPVOTE server could not be established. (Code: %1$d; Message: %2$s)"
+msgstr ""
+
+#: includes/ShopVoteApi.php:58
+msgid "Invalid data was received from the SHOPVOTE-server. Please contact SHOPVOTE support."
+msgstr ""
+
+#: index.php:24
+#: index.php:25
+msgid "SHOPVOTE Settings"
+msgstr ""
+
+#: index.php:44
+msgid "Settings"
+msgstr ""
+
+#: template/login.php:13
+msgid "The username is required."
+msgstr ""
+
+#: template/login.php:17
+msgid "The password is required."
+msgstr ""
+
+#: template/login.php:52
+msgid "SHOPVOTE-Login"
+msgstr ""
+
+#: template/login.php:53
+msgid "Enter your SHOPVOTE credentials (username and password) that you have received for the SHOPVOTE merchant area here. After logging in, you can configure the plugin."
+msgstr ""
+
+#: template/login.php:63
+msgid "SHOPVOTE Username"
+msgstr ""
+
+#: template/login.php:65
+msgid "Example"
+msgstr ""
+
+#: template/login.php:69
+msgid "SHOPVOTE Password"
+msgstr ""
+
+#: template/login.php:71
+msgid "Password"
+msgstr ""
+
+#: template/login.php:76
+msgid "Don't have a SHOPVOTE account yet?"
+msgstr ""
+
+#: template/login.php:76
+msgid "Register now for free"
+msgstr ""
+
+#: template/login.php:79
+msgid "Connect to SHOPVOTE"
+msgstr ""
+
+#: template/settings.php:25
+msgid "Configuration"
+msgstr ""
+
+#: template/settings.php:34
+msgid "SHOPVOTE badge"
+msgstr ""
+
+#: template/settings.php:40
+msgid "Show SHOPVOTE badge"
+msgstr ""
+
+#: template/settings.php:46
+msgid "Badge position"
+msgstr ""
+
+#: template/settings.php:49
+msgid "Specify the position where the badge is going to be displayed. (Default: right / bottom)"
+msgstr ""
+
+#: template/settings.php:56
+msgid "right / bottom"
+msgstr ""
+
+#: template/settings.php:62
+msgid "right / top"
+msgstr ""
+
+#: template/settings.php:68
+msgid "left / bottom"
+msgstr ""
+
+#: template/settings.php:74
+msgid "left / top"
+msgstr ""
+
+#: template/settings.php:80
+msgid "Distance top / bottom"
+msgstr ""
+
+#: template/settings.php:85
+#: template/settings.php:96
+msgid "Pixel"
+msgstr ""
+
+#: template/settings.php:91
+msgid "Distance left / right"
+msgstr ""
+
+#: template/settings.php:109
+msgid "Automatic rating request"
+msgstr ""
+
+#: template/settings.php:110
+msgid "Enable this option to automatically ask your customers for reviews in a legally secure way."
+msgstr ""
+
+#: template/settings.php:116
+msgid "Send SHOPVOTE rating requests"
+msgstr ""
+
+#: template/settings.php:128
+msgid "Collect product reviews"
+msgstr ""
+
+#: template/settings.php:129
+msgid "Enable this option to receive additional product reviews from your customers."
+msgstr ""
+
+#: template/settings.php:135
+msgid "Collect and display SHOPVOTE product reviews"
+msgstr ""
